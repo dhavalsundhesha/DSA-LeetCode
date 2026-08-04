@@ -18,8 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
