@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0509-fibonacci-number) |
