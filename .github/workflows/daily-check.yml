@@ -1,0 +1,30 @@
+name: Daily LeetCode Check
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+      timezone: "Asia/Kolkata"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check today's commits
+        run: |
+          COUNT=$(git log --since="00:00" --until="23:00" --oneline | wc -l)
+
+          echo "Today's commits: $COUNT"
+
+          if [ "$COUNT" -ge 5 ]; then
+            echo "DONE - $COUNT/5 questions completed"
+          else
+            echo "MISSING - $COUNT/5 questions completed"
+            exit 1
+          fi
