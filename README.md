@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
