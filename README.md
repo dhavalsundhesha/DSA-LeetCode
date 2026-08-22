@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 ## Recursion
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
