@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
