@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Trie
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
