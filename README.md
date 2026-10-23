@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
