@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
