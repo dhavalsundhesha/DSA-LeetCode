@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0342-power-of-four) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0136-single-number) |
 | [0456-132-pattern](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/0456-132-pattern) |
 | [2094-finding-3-digit-even-numbers](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhavalsundhesha/DSA-LeetCode/tree/master/2965-find-missing-and-repeated-values) |
